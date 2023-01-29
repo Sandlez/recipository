@@ -3,7 +3,7 @@ import { Pressable } from 'react-native';
 
 import { FontAwesome } from '@expo/vector-icons';
 
-import Colors from '../constants/Colors';
+import Colors from '../config/Colors';
 import useColorScheme from '../hooks/useColorScheme';
 import { RootTabScreenProps } from '../types';
 
